@@ -1,8 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Starter Kit Next Js App Router
+
+Welcome to the Next.js v13 Starter Kit! This template is designed to help you kickstart your Next.js project with ease. It includes popular libraries like Tailwind CSS, Zustand for state management, and SWR for data fetching. This README will guide you through getting started and using this starter kit.
+
+<img width="1440" alt="Screenshot 2023-10-22 at 17 18 41" src="https://github.com/Bayusetiawan45/starterkit-nextjs-app-router/assets/99315255/42d806df-bfcc-4384-905d-eb4ff06b4731">
+
+## Features
+
+- [Next.js](https://nextjs.org/): A powerful React framework for building web applications.
+- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
+- [Zustand](https://github.com/pmndrs/zustand): A tiny, yet incredibly powerful, state management library for React.
+- [SWR](https://swr.vercel.app/): A React Hooks library for data fetching with built-in revalidation and caching.
+- Modular Architecture
+
 
 ## Getting Started
 
-First, run the development server:
+1. Clone this repository to your local machine:
+
+```bash
+ git clone https://github.com/your-username/nextjs-v13-starterkit.git
+```
+
+2. Install the project dependencies:
+```bash
+npm install
+# or
+yarn
+```
+
+3. run the development server:
 
 ```bash
 npm run dev
@@ -28,6 +54,9 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Contributing
+If you'd like to contribute to this project or have any issues or suggestions, please feel free to create a pull request or open an issue.
 
 ## Deploy on Vercel
 
