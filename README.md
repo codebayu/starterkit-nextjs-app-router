@@ -18,7 +18,7 @@ Welcome to the Next.js v13 Starter Kit! This template is designed to help you ki
 1. Clone this repository to your local machine:
 
 ```bash
- git clone https://github.com/your-username/nextjs-v13-starterkit.git
+ git clone https://github.com/Bayusetiawan45/starterkit-nextjs-app-router.git
 ```
 
 2. Install the project dependencies:
